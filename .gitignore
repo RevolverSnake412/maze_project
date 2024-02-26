@@ -1,5 +1,9 @@
 *.xml
+*.json
 ./idea
+./managed_context
+./test_suite_analysis
+
 ### C++ template
 # Prerequisites
 *.d
