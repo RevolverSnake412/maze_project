@@ -1,7 +1,7 @@
 *.xml
 *.json
 *.iml
-./idea
+./.idea
 
 ./managed_context
 ./test_suite_analysis
