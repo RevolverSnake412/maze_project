@@ -4,4 +4,7 @@
 #include <SDL2/SDL.h>
 #include <stdio.h>
 
+/* SDL */
+void playSound(const char *filename);
+
 #endif /*_MAIN_H_*/
