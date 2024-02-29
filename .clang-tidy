@@ -145,3 +145,9 @@ readability-static-definition-in-anonymous-namespace,
 readability-string-compare,
 readability-uniqueptr-delete-release,
 readability-use-anyofallof'
+Checks: '-*,readability-*'
+CheckOptions:
+  - key: readability-braces-around-statements.ShortStatementLines
+    value: '0'
+  - key: readability-braces-around-statements.AllowShortIfStatementsWithoutBraces
+    value: 'false'

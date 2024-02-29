@@ -7,7 +7,7 @@
 /* playsounds */
 void playSound(const char *filename);
 /* RAIN */
-void startRain();
-void handleRain();
+void startRain(void);
+void handleRain(void);
 
 #endif /*_MAIN_H_*/
