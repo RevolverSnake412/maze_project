@@ -4,7 +4,10 @@
 #include <SDL2/SDL.h>
 #include <stdio.h>
 
-/* SDL */
+/* playsounds */
 void playSound(const char *filename);
+/* RAIN */
+void startRain();
+void handleRain();
 
 #endif /*_MAIN_H_*/
