@@ -6,7 +6,7 @@
 ./managed_context
 ./test_suite_analysis
 ./cmake-build-debug
-
+./.ccls-cache
 ### C++ template
 # Prerequisites
 *.d
