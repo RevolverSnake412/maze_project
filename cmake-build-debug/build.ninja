@@ -63,20 +63,6 @@ build CMakeFiles/maze_project.dir/src/rain.c.o: C_COMPILER__maze_project_unscann
   OBJECT_DIR = CMakeFiles/maze_project.dir
   OBJECT_FILE_DIR = CMakeFiles/maze_project.dir/src
 
-build CMakeFiles/maze_project.dir/sdl.c.o: C_COMPILER__maze_project_unscanned_Debug /home/marouane/ALX/maze_project/sdl.c || cmake_object_order_depends_target_maze_project
-  DEP_FILE = CMakeFiles/maze_project.dir/sdl.c.o.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  INCLUDES = -I/home/marouane/ALX/maze_project/inc
-  OBJECT_DIR = CMakeFiles/maze_project.dir
-  OBJECT_FILE_DIR = CMakeFiles/maze_project.dir
-
-build CMakeFiles/maze_project.dir/main.c.o: C_COMPILER__maze_project_unscanned_Debug /home/marouane/ALX/maze_project/main.c || cmake_object_order_depends_target_maze_project
-  DEP_FILE = CMakeFiles/maze_project.dir/main.c.o.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  INCLUDES = -I/home/marouane/ALX/maze_project/inc
-  OBJECT_DIR = CMakeFiles/maze_project.dir
-  OBJECT_FILE_DIR = CMakeFiles/maze_project.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target maze_project
@@ -85,7 +71,7 @@ build CMakeFiles/maze_project.dir/main.c.o: C_COMPILER__maze_project_unscanned_D
 #############################################
 # Link the executable maze_project
 
-build maze_project: C_EXECUTABLE_LINKER__maze_project_Debug CMakeFiles/maze_project.dir/src/playsound.c.o CMakeFiles/maze_project.dir/src/rain.c.o CMakeFiles/maze_project.dir/sdl.c.o CMakeFiles/maze_project.dir/main.c.o
+build maze_project: C_EXECUTABLE_LINKER__maze_project_Debug CMakeFiles/maze_project.dir/src/playsound.c.o CMakeFiles/maze_project.dir/src/rain.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/maze_project.dir
   POST_BUILD = :
