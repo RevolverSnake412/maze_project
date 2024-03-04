@@ -1,4 +1,4 @@
-#include "../inc/main.h"
+#include "maze.h"
 /**
  * handleRain - function to handle rain effect
  *

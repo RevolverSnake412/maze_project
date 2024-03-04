@@ -1,4 +1,4 @@
-#include "../inc/main.h"
+#include "maze.h"
 /**
  * playSound - function to play a wav format audio
  * @filename: audio file to play

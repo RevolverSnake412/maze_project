@@ -1,0 +1,3 @@
+/home/marouane/ALX/maze_project/cmake-build-debug/CMakeFiles/maze_project.dir
+/home/marouane/ALX/maze_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marouane/ALX/maze_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
