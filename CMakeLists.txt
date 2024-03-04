@@ -8,4 +8,5 @@ include_directories(inc)
 add_executable(maze_project
         inc/main.h
         src/playsound.c
-        src/rain.c)
+        src/rain.c
+)
