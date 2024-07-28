@@ -1,0 +1,3 @@
+/home/revolversnake412/GIT/maze_project/CMakeFiles/maze_project.dir
+/home/revolversnake412/GIT/maze_project/CMakeFiles/edit_cache.dir
+/home/revolversnake412/GIT/maze_project/CMakeFiles/rebuild_cache.dir
